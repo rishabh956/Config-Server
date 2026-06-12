@@ -1,6 +1,3 @@
-spring:
- application:
-  name: config-prod
 eureka:
  client:
   fecth-registry: true
